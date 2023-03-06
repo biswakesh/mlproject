@@ -1,0 +1,12 @@
+1. Set up the github repository
+a) new environment
+b) setup.py
+c) requirements.txt
+
+--- How to create and activate a virtual environment for python 
+1. pip install Virtualenv
+2. python3.9 -m venv myvenv
+3. myvenv/Scripts/Activate.ps1
+
+--- Sync your Repo from Local with Git Repo
+
