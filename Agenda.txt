@@ -3,6 +3,9 @@ a) new environment
 b) setup.py
 c) requirements.txt
 
+
+2. src folder and build the package
+
 --- How to create and activate a virtual environment for python 
 1. pip install Virtualenv
 2. python3.9 -m venv myvenv
