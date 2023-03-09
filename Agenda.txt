@@ -13,3 +13,10 @@ c) requirements.txt
 
 --- Sync your Repo from Local with Git Repo
 
+3. Create Components Folder
+    a. init
+    b. data_ingestion.py
+    c. data_transformation.py
+
+4. 
+
