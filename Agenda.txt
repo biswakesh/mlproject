@@ -18,5 +18,6 @@ c) requirements.txt
     b. data_ingestion.py
     c. data_transformation.py
 
-4. 
+4. Create Data Ingestion
+5. Create Data Transformation
 
